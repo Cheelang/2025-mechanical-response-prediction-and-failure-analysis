@@ -1,2 +1,2 @@
 # 2025-mechanical-response-prediction-and-failure-analysis
-The code and associated data for this study are publicly available on GitHub and are continuously being updated and refined.
+The code and associated data for this study are publicly available on GitHub and are continuously being updated and refined. The repository includes the finite element (FE) model files, example simulation datasets, and scripts necessary to reproduce the numerical analyses presented in this work. Additionally, implementations of the deep learning models used for predicting rebar stress-displacement behavior are provided, facilitating replication and further exploration.
